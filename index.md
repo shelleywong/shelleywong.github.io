@@ -1,7 +1,7 @@
----
+<!-- ---
 title: "C'thulhu Resume"
 layout: resume
----
+--- -->
 
 # C'thulhu
 
