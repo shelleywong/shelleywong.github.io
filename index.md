@@ -1,6 +1,6 @@
 ---
 title: "Shelley Wong's Resume"
-layout: default
+layout: jekyll-theme-cayman
 ---
 
 # Shelley Wong
