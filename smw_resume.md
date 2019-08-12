@@ -9,27 +9,25 @@ layout: resume
 -->
 ## Education
 
-### **California State University, Chico** Chico, CA, August 2019 - present
+### **California State University, Chico**
 
-**Masters of Science:** Computer Science
+### Master of Science, Computer Science
 
-### **California State University, Chico** Chico, CA, August 2015 - May 2019
+#### Chico, CA / Aug 2019 - present
 
-**Postbaccalaureate:** Prerequisites for Computer Science MS program
+* Prerequisites for Computer Science MS program / Aug 2015 - May 2019
 
-* **GPA:** 4.0
+* Postbaccalaureate GPA: 4.0
 
-* UPE Member
+* UPE Member (The International Honor Society for the Computing and Information Disciplines)
 
-### **Linfield College** McMinnville, OR, August 2003 - May 2007
+### **Linfield College**
 
-**Major:** Economics
+### Bachelor of Science, Economics / Bachelor of Science, Business / Minor, Studio Art
 
-**Major:** Business
+#### McMinnville, OR / August 2003 - May 2007
 
-**Minor:** Studio Art
-
-* **GPA:** 3.9
+* GPA: 3.9
 
 * Magna Cum Laude
 
