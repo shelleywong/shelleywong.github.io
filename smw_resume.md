@@ -7,11 +7,9 @@ layout: resume
 <!--
 > I am an outgoing and energetic (ask anybody) young professional, seeking a career that fits my professional skills, personality, and murderous tendencies. My squid-like head is a masterful problem solver and inspires fear in who gaze upon it. I can bring world domination to your organization.
 -->
-## Education
+## EDUCATION
 
-### **California State University, Chico**
-
-### Master of Science, Computer Science
+### California State University, Chico / Master of Science, Computer Science
 
 #### Chico, CA / Aug 2019 - present
 
@@ -21,9 +19,7 @@ layout: resume
 
 * UPE Member (The International Honor Society for the Computing and Information Disciplines)
 
-### **Linfield College**
-
-### Bachelor of Science, Economics / Bachelor of Science, Business / Minor, Studio Art
+### Linfield College / Bachelor of Science, Economics / Bachelor of Science, Business / Minor, Studio Art
 
 #### McMinnville, OR / August 2003 - May 2007
 
@@ -35,17 +31,29 @@ layout: resume
 
 * Harold Elkinton Award, recognizing academic excellence and exemplary service to the community
 
+## TECHNICAL SKILLS AND PROGRAMMING LANGUAGES
+
+* Proficient: C++, Python, HTML5, CSS, JavaScript, Django, Flask
+
+* Also Experience With: Linux, Git, C, SQL, Drupal, jQuery, Perl
+
+## TECHNIAL WORK EXPERIENCE
+
+### Lawrence Livermore National Laboratory / Computing Student Intern
+
+#### Livermore, CA / Jun 2019 - Aug 2019
+
+* LC Content Request Form: Converted Perl and jQuery form to Flask form with
+  server-side validation, added requested features (including JSON blocks,
+  sendmail emails, conf files) that allow the form input to be more usable in the future.
+
+* HPC Website: Updated a Drupal-based website, created webforms, utilized
+  Siteimprove to address accessibility issues.
+
+* StaffAway Portlet: Worked with jQuery and Perl to develop modal dialogs to
+  filter, sort, and display staff away entries via a list view (using the
+  DataTables plugin) and month view (using the FullCalendar plugin).
 <!--
-## Skills
-
-### **Office skills**
-
-Office and records management, database administration, event organization, customer support, travel coordination
-
-### **Computer skills**
-
-Microsoft productivity software (Word, Excel, etc), Adobe Creative Suite, Windows
-
 ## Experience
 
 ### **Leader & Overlord** Doomsday Cult, Baton Rogue, LA <span>1926&ndash;Present</span>
