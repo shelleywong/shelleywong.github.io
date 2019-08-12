@@ -1,5 +1,6 @@
 ---
 title: "Shelley Wong's Resume"
+description: "My resume, updated August 2019"
 layout: jekyll-theme-cayman
 ---
 
