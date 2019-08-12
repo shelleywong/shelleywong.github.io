@@ -1,12 +1,10 @@
-<!--
+---
 title: "Shelley Wong's Resume"
 layout: resume
--->
+---
 
 # Shelley Wong
-<!--
-> I am an outgoing and energetic (ask anybody) young professional, seeking a career that fits my professional skills, personality, and murderous tendencies. My squid-like head is a masterful problem solver and inspires fear in who gaze upon it. I can bring world domination to your organization.
--->
+
 ## EDUCATION
 
 ### California State University, Chico / Master of Science, Computer Science
@@ -118,32 +116,12 @@ layout: resume
   * Assisted in coaching and teaching teen girls essential CS concepts, using Tynker and Minecraft
 
 * Boys and Girls Club of the North Valley / Chico, CA / Fall 2008 - Fall 2016
-  * Helped students in the afterschool program with homework, assisted with daily activities
-<!--
-## Experience
+  * Helped students in the after-school program with homework, assisted with daily activities
 
-### **Leader & Overlord** Doomsday Cult, Baton Rogue, LA <span>1926&ndash;Present</span>
-
-- Inspired and won highest peasant death competition among servants
-- Helped coordinate managers to grow cult following
-- Provided untimely deaths to all who opposed
-
-### **Bartender/Server** The Watering Hole, Milwaukee, WI <span>2009</span>
-
-- Worked on grass-roots promotional campaigns
-- Reduced theft and property damage percentages
-- Janitorial work, Laundry
-
-## Hobbies
-
-World Domination, Deep Sea Diving, Murder Most Foul
-
-## References
+## REFERENCES
 
 Available on request
 
-## Links
+## LINKS
 
-<a href="https://github.com/gonsie/Cthulu-Resume"><span class="octicon octicon-mark-github" style="position: relative; color: black; margin: 3px;"></span>Find This on GitHub</a>
-
--->
+<a href="https://github.com/shelleywong"><span class="octicon octicon-mark-github" style="position: relative; color: black; margin: 3px;"></span>My GitHub Page</a>
