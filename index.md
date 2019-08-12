@@ -1,6 +1,6 @@
 ---
 title: Shelley Wong's Resume
-layout: resume
+layout: default
 ---
 
 # Shelley Wong
