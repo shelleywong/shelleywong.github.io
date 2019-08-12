@@ -1,7 +1,7 @@
----
+<!--
 title: "Shelley Wong's Resume"
 layout: resume
----
+-->
 
 # Shelley Wong
 <!--
@@ -78,25 +78,25 @@ layout: resume
 ## ADDITIONAL WORK EXPERIENCE
 
 * Chico Unified School District / Cafeteria Assistant / Chico, CA / Dec 2010 - present
-  Customer service that required a strong work ethic, teamwork, and a positive attitude
+  * Customer service that required a strong work ethic, teamwork, and a positive attitude
 
 * Baskin Robbins / Cake Decorator / Chico, CA / May 2007 - June 2019
-  Built and decorated cakes, managed inventory, created custom designs,
+  * Built and decorated cakes, managed inventory, created custom designs,
   communicated effectively with others
 
 ## VOLUNTEER WORK
 
 * CSU,Chico UPE / Chico, CA / Fall 2017 - present
-  Helped CSCI students learn how to think about problem solving and understand CS fundamentals
+  * Helped CSCI students learn how to think about problem solving and understand CS fundamentals
 
 * Butte County Library / Chico, CA / Fall 2007 - present
-  Sorted, shelved and organized books, assisted patrons in searches for books and other media
+  * Sorted, shelved and organized books, assisted patrons in searches for books and other media
 
 * Girls Who Code Summer Camp / Chico, CA / Summer 2017
-  Assisted in coaching and teaching teen girls essential CS concepts, using Tynker and Minecraft
+  * Assisted in coaching and teaching teen girls essential CS concepts, using Tynker and Minecraft
 
 * Boys and Girls Club of the North Valley / Chico, CA / Fall 2008 - Fall 2016
-  Helped students in the afterschool program with homework, assisted with daily activities
+  * Helped students in the afterschool program with homework, assisted with daily activities
 <!--
 ## Experience
 
