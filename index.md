@@ -1,3 +1,8 @@
+---
+title: Shelley Wong's Resume
+layout: resume
+---
+
 # Shelley Wong
 
 ## EDUCATION
