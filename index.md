@@ -1,7 +1,4 @@
 ---
-title: "Shelley Wong's Resume"
-description: "My resume, updated August 2019"
-layout: jekyll-theme-cayman
 ---
 
 # Shelley Wong
@@ -13,9 +10,7 @@ layout: jekyll-theme-cayman
 #### Chico, CA / Aug 2019 - present
 
 * Prerequisites for Computer Science MS program / Aug 2015 - May 2019
-
 * Postbaccalaureate GPA: 4.0
-
 * UPE Member (The International Honor Society for the Computing and Information Disciplines)
 
 ### Linfield College / Bachelor of Science, Economics / Bachelor of Science, Business
@@ -23,19 +18,14 @@ layout: jekyll-theme-cayman
 #### McMinnville, OR / August 2003 - May 2007
 
 * GPA: 3.9
-
 * Minor: Studio Art
-
 * Magna Cum Laude
-
 * Dean's list
-
 * Harold Elkinton Award, recognizing academic excellence and exemplary service to the community
 
 ## TECHNICAL SKILLS AND PROGRAMMING LANGUAGES
 
 * Proficient: C++, Python, HTML5, CSS, JavaScript, Django, Flask
-
 * Also Experience With: Linux, Git, C, SQL, Drupal, jQuery, Perl
 
 ## TECHNIAL WORK EXPERIENCE
