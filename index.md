@@ -1,9 +1,7 @@
 ---
-title: Shelley Wong's Resume
+title: Shelley Wong
 layout: default
 ---
-
-# Shelley Wong
 
 ## EDUCATION
 
