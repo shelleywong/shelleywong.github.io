@@ -1,6 +1,3 @@
----
----
-
 # Shelley Wong
 
 ## EDUCATION
