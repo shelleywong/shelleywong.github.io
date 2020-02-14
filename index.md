@@ -26,9 +26,21 @@ layout: default
 ## TECHNICAL SKILLS AND PROGRAMMING LANGUAGES
 
 * Proficient: C++, Python, HTML5, CSS, JavaScript, Django, Flask
-* Also Experience With: Linux, Git, C, SQL, Drupal, jQuery, Perl
+* Also Experience With: Linux, Git, Rust, WebAssembly, C, SQL, Drupal, jQuery, Perl
 
 ## TECHNIAL WORK EXPERIENCE
+
+### CSU, Chico / Instructional Student Assistant
+
+#### Chico, CA / Aug 2019 - present
+
+* Grader for CSCI 311:
+  * Grading C++ and written assignments for the Algorithms and Data Structures courses
+* Grader for CSCI 550:
+  * Grading written assignments for Design/Analysis of Algorithms
+* Research Assistant:
+  * Benchmarking Bioinformatics Algorithms, configured OpenMP to restrict the number of threads
+
 
 ### Lawrence Livermore National Laboratory / Computing Student Intern
 
@@ -61,14 +73,15 @@ layout: default
 
 ## RELEVANT PROJECTS AND EXPERIENCES
 
+* Rust and WebAssembly Research Project: 
+  * Comparing the performance of WebAssembly (Wasm), written in Rust, with the performance of JavaScript (JS) for running computationally intensive functions in a browser. 
+  * Included a review of the literature on Wasm, JS, and Web-based performance, and a research paper and presentation from my experience.
+
 * ClassroomWhoIs (in progress):
   * Developing an app to help teachers and students learn each other’s names.
   * Initially created for Intro to Web Programming (CINS110) in HTML, CSS, and Javascript.
-  * Redeveloped as a web app for Web Programming Fundamentals (CINS 465) in Django
-    and Vue.js, adding a user login system and a real-time chat system, with Foundation
-    for responsive design.
-  * Now independently working on converting the idea to a mobile app with Flutter,
-    Google’s UI toolkit for crafting native apps.
+  * Redeveloped as a web app for Web Programming Fundamentals (CINS 465) in Django and Vue.js, adding a user login system and a real-time chat system, with Foundation for responsive design.
+  * Now independently working on converting the idea to a mobile app with Flutter, Google’s UI toolkit for crafting native apps.
 
 * Secret Santa Site:
   * Developing a Secret Santa website with my partner to facilitate Christmas gift
