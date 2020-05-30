@@ -25,10 +25,10 @@ layout: default
 
 ## TECHNICAL SKILLS AND PROGRAMMING LANGUAGES
 
-* Proficient: C++, Python, HTML5, CSS, JavaScript, Django, Flask
-* Also Experience With: Linux, Git, Rust, WebAssembly, C, SQL, Drupal, jQuery, Perl
+* Proficient: C++, Python, HTML5, CSS, JavaScript, Django, Flask, Flutter
+* Also Experience With: Linux, Git, Rust, WebAssembly, Java, C, SQL, Drupal, jQuery, Perl
 
-## TECHNIAL WORK EXPERIENCE
+## TECHNICAL WORK EXPERIENCE
 
 ### CSU, Chico / Instructional Student Assistant
 
@@ -73,8 +73,22 @@ layout: default
 
 ## RELEVANT PROJECTS AND EXPERIENCES
 
-* Rust and WebAssembly Research Project: 
-  * Comparing the performance of WebAssembly (Wasm), written in Rust, with the performance of JavaScript (JS) for running computationally intensive functions in a browser. 
+* ParkCore:
+  * ParkCore is a parking solution that connects local homeowners near Chico State with students, faculty, and staff through the rental of driveways as personal parking spaces.
+  * Mobile application built in Flutter, for Android and iOS.
+
+* PantrySpring:
+  * An open-source food pantry backend, built in Java, with software design patterns in mind.
+
+* Design Patterns:
+  * Collaborative open-source project to provide applicable examples of software design patterns.
+  * I contributed examples in Java
+    * Creational Design Patterns (Abstract Factory, Singleton)
+    * Structural Patterns (Adapter, Facade)
+    * Behavioral Design Patterns (Command, Interpreter, Mediator, Strategy)
+
+* Rust and WebAssembly Research Project:
+  * Comparing the performance of WebAssembly (Wasm), written in Rust, with the performance of JavaScript (JS) for running computationally intensive functions in a browser.
   * Included a review of the literature on Wasm, JS, and Web-based performance, and a research paper and presentation from my experience.
 
 * ClassroomWhoIs (in progress):
