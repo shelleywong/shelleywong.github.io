@@ -89,14 +89,19 @@ layout: default
 
 ## RELEVANT PROJECTS AND EXPERIENCES
 
-* Masters Project: Exploring the Use of Software Visualization in Computer Science Education and Developing a System to Facilitate the Construction of Algorithm Visualizations with JSAV and WebAssembly
+* BoxAndArrow:
+  * My Masters Project: Exploring the Use of Software Visualization in Computer Science Education and Developing a System to Facilitate the Construction of Algorithm Visualizations with JSAV and WebAssembly
   * An open source prototype application that works with WebAssembly and the JavaScript Algorithm Visualization library, allowing students to write C++ programs that map to a data structure visualization that is viewable on a personal computer through a web browser.
-  * This project provides starter code and instructions for implementing arrays, linked lists, and binary trees.
-  * As a learning tool, it includes error-checking features to help students identify mistakes in their code and makes it easy to test programs with various inputs and commands.
+  * This project provides starter code and instructions for implementing arrays, linked lists, and binary trees. As a learning tool, it includes error-checking features to help students identify mistakes in their code and makes it easy to test programs with various inputs and commands.
+  * Web application built with WebAssembly, C++, JavaScript, the JavaScript Algorithm Visualization Library (JSAV), and Flask.
 
 * ParkCore:
   * ParkCore is a parking solution that connects local homeowners near Chico State with students, faculty, and staff through the rental of driveways as personal parking spaces.
   * Mobile application built in Flutter, for Android and iOS.
+
+* Cluster Web Portal:
+  * A web application for students to add, remove, and keep track of SSH keys associated with their account.
+  * Built with Django, Foundation, CSS, HTML, and a SQLite database.
 
 * Hello Plants!:
   * A garden journal app that makes it easy to keep track of the plants in your garden.
