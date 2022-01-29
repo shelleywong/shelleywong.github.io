@@ -1,6 +1,8 @@
 # Jekyll Resume
 
-This resume is a reimplementation of  [gonsie/cthulu-resume](https://github.com/gonsie/cthulu-resume) for Jekyll.
+This resume is a reimplementation of  [gonsie/cthulu-resume](https://github.com/gonsie/cthulu-resume) for Jekyll.<br>
+
+Visit my resume at: [shelleywong.github.io](https://shelleywong.github.io/)
 
 ## Usage
 
