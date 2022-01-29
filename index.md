@@ -7,7 +7,7 @@ layout: default
 
 ### California State University, Chico / Master of Science, Computer Science
 
-#### Chico, CA / Aug 2019 - present
+#### Chico, CA / Aug 2019 - May 2021
 
 * Prerequisites for Computer Science MS program / Aug 2015 - May 2019
 * Postbaccalaureate GPA: 4.0
@@ -26,13 +26,29 @@ layout: default
 ## TECHNICAL SKILLS AND PROGRAMMING LANGUAGES
 
 * Proficient: C++, Python, HTML5, CSS, JavaScript, Django, Flask, Flutter
-* Also Experience With: Linux, Git, Rust, WebAssembly, Java, C, SQL, Drupal, jQuery, Perl
+* Also Experience With: Linux, Git, WebAssembly, Rust, Java, Go, C, Dart, SQL, Drupal, jQuery, Perl
 
 ## TECHNICAL WORK EXPERIENCE
 
+### CSU, Chico / Lecturer
+
+#### Chico, CA / Aug 2021 - present
+
+* Instructor for CINS 465 - Web Programming Fundamentals
+* Instructor for CSCI 102 - Living With Technology
+* Instructor for CSCI 211 - Programming and Algorithms II
+  * Presenting lectures, leading discussions, updating and preparing course materials, holding office hours, reading and evaluating student programming assignments and papers, proctoring examinations, maintaining and submitting student records
+
+### CSU, Chico / Teaching Associate
+
+#### Chico, CA / Aug 2020 - May 2021
+
+* Instructor for CSCI 102 - Living With Technology
+* Instructor for CSCI 211 - Programming and Algorithms II
+
 ### CSU, Chico / Instructional Student Assistant
 
-#### Chico, CA / Aug 2019 - present
+#### Chico, CA / Aug 2019 - May 2020
 
 * Grader for CSCI 311:
   * Grading C++ and written assignments for the Algorithms and Data Structures courses
@@ -73,9 +89,19 @@ layout: default
 
 ## RELEVANT PROJECTS AND EXPERIENCES
 
+* Masters Project: Exploring the Use of Software Visualization in Computer Science Education and Developing a System to Facilitate the Construction of Algorithm Visualizations with JSAV and WebAssembly
+  * An open source prototype application that works with WebAssembly and the JavaScript Algorithm Visualization library, allowing students to write C++ programs that map to a data structure visualization that is viewable on a personal computer through a web browser.
+  * This project provides starter code and instructions for implementing arrays, linked lists, and binary trees.
+  * As a learning tool, it includes error-checking features to help students identify mistakes in their code and makes it easy to test programs with various inputs and commands.
+
 * ParkCore:
   * ParkCore is a parking solution that connects local homeowners near Chico State with students, faculty, and staff through the rental of driveways as personal parking spaces.
   * Mobile application built in Flutter, for Android and iOS.
+
+* Hello Plants!:
+  * A garden journal app that makes it easy to keep track of the plants in your garden.
+  * Provides one spot to document when seedlings or seeds were put in the ground, how the plants have grown over time, and any problems encountered, as well as keep track of the amount harvested over the season.
+  * The app allows users to take photos of their plants, and then see the growth of their plants on a timeline and how the garden performed over the season.
 
 * PantrySpring:
   * An open-source food pantry backend, built in Java, with software design patterns in mind.
