@@ -35,8 +35,10 @@ layout: default
 #### Chico, CA / Aug 2021 - present
 
 * Instructor for CINS 465 - Web Programming Fundamentals
+* Instructor for CINS 467 - Web and Mobile App Development
 * Instructor for CSCI 102 - Living With Technology
 * Instructor for CSCI 211 - Programming and Algorithms II
+* Instructor for CSED 590 - Software Design, Data Structures, and Algorithms
   * Presenting lectures, leading discussions, updating and preparing course materials, holding office hours, reading and evaluating student programming assignments and papers, proctoring examinations, maintaining and submitting student records
 
 ### CSU, Chico / Teaching Associate
@@ -99,6 +101,11 @@ layout: default
   * ParkCore is a parking solution that connects local homeowners near Chico State with students, faculty, and staff through the rental of driveways as personal parking spaces.
   * Mobile application built in Flutter, for Android and iOS.
 
+* Repo Generation Tool:
+  * A cross-platform (web, Android) application for students to generate a private GitHub or GitLab repo in a course organization or group.
+  * The app works with the the GitHub API and GitLab API
+  * Built with Flutter and Go
+
 * Cluster Web Portal:
   * A web application for students to add, remove, and keep track of SSH keys associated with their account.
   * Built with Django, Foundation, CSS, HTML, and a SQLite database.
@@ -144,6 +151,20 @@ layout: default
   * Learned how to effectively query a data source.
   * Formally presented our work to the class.
 
+## PROFESSIONAL DEVELOPMENT ACTIVITIES
+
+* Tier 1 CURE-E STEM Faculty Fellows Program Faculty Participant
+  * Cultivating A Culture Of Entrepreneurial Mindset And Undergraduate Research (CURE-E) STEM Faculty Fellows Program, Summer/Fall 2023, Spring 2024
+* STS Pathway Faculty Member
+  * GE Pathway Minor Syllabus Scaffolding and Grade Equity Project, Summer 2023
+* General Participant
+  * Special Interest Group on Computer Science Education Technical Symposium Spring 2023 (SIGCSE TS 2023)
+  * Consortium for Computing Sciences in Colleges, Southwest Region (CCSC:SW) Spring 2021
+  * Consortium for Computing Sciences in Colleges, Southwest Region (CCSC:SW) Spring 2020
+  * Consortium for Computing Sciences in Colleges, Southwest Region (CCSC:SW) Spring 2019
+  * Consortium for Computing Sciences in Colleges, Southwest Region (CCSC:SW) Spring 2018
+
+
 ## ADDITIONAL WORK EXPERIENCE
 
 * Chico Unified School District / Cafeteria Assistant / Chico, CA / Dec 2010 - present
@@ -154,6 +175,10 @@ layout: default
   communicated effectively with others
 
 ## VOLUNTEER WORK
+
+* Choose Chico! Volunteer / Chico, CA / 2023
+
+* ICPC (International Collegiate Programming Contest) Volunteer / Chico, CA / 2023
 
 * CSU,Chico UPE / Chico, CA / Fall 2017 - present
   * Helped CSCI students learn how to think about problem solving and understand CS fundamentals
