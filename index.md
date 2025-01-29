@@ -10,14 +10,14 @@ layout: default
 #### Chico, CA / Aug 2019 - May 2021
 
 * Prerequisites for Computer Science MS program / Aug 2015 - May 2019
-* Postbaccalaureate GPA: 4.0
+* Postbaccalaureate GPA: 3.952
 * UPE Member (The International Honor Society for the Computing and Information Disciplines)
 
 ### Linfield College / Bachelor of Science, Economics / Bachelor of Science, Business
 
 #### McMinnville, OR / August 2003 - May 2007
 
-* GPA: 3.9
+* GPA: 3.914
 * Minor: Studio Art
 * Magna Cum Laude
 * Dean's list
@@ -154,10 +154,12 @@ layout: default
 ## PROFESSIONAL DEVELOPMENT ACTIVITIES
 
 * Tier 1 CURE-E STEM Faculty Fellows Program Faculty Participant
-  * Cultivating A Culture Of Entrepreneurial Mindset And Undergraduate Research (CURE-E) STEM Faculty Fellows Program, Summer/Fall 2023, Spring 2024
+  * Cultivating A Culture Of Entrepreneurial Mindset And Undergraduate Research (CURE-E) STEM Faculty Fellows Program, Summer/Fall 2023, Spring/Fall 2024, Spring 2025
 * STS Pathway Faculty Member
   * GE Pathway Minor Syllabus Scaffolding and Grade Equity Project, Summer 2023
 * General Participant
+  * Consortium for Computing Sciences in Colleges, Southwest Region (CCSC:SW) Spring 2024
+  * Special Interest Group on Computer Science Education Technical Symposium Spring 2024 (SIGCSE TS 2024)
   * Special Interest Group on Computer Science Education Technical Symposium Spring 2023 (SIGCSE TS 2023)
   * Consortium for Computing Sciences in Colleges, Southwest Region (CCSC:SW) Spring 2021
   * Consortium for Computing Sciences in Colleges, Southwest Region (CCSC:SW) Spring 2020
@@ -176,7 +178,11 @@ layout: default
 
 ## VOLUNTEER WORK
 
-* Choose Chico! Volunteer / Chico, CA / 2023
+* ICPC (International Collegiate Programming Contest) Co-Coach / California State University, Chico / Spring/Fall 2024
+
+* Commencement Marshal / California State University, Chico / 2023 - 2024
+
+* Choose Chico! Volunteer / California State University, Chico / 2023 - 2024
 
 * ICPC (International Collegiate Programming Contest) Volunteer / Chico, CA / 2023
 
@@ -199,3 +205,5 @@ Available on request
 ## LINKS
 
 <a href="https://github.com/shelleywong"><span class="octicon octicon-mark-github" style="position: relative; color: black; margin: 3px;"></span>My GitHub Page</a>
+
+<a href="https://www.linkedin.com/in/shelley-wong-60b1ab1ab/"><span class="octicon octicon-mark-github" style="position: relative; color: black; margin: 3px;"></span>My Linkedin Profile</a>
